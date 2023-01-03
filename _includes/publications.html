@@ -1,14 +1,21 @@
 <div class="row g-5 mb-5">
-  <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
-    {% if page.title == "Home" %}
-      {% for item in site.data.publications.featured %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% else %}
-      {% for item in site.data.publications.index %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% endif %}
-  </div>
+    <div>
+        <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
+        {% if page.title == "Home" %}
+        <h5>Published Papers</h5>
+        <!-- Gabriel Lipkowitz, Tim Samuelsen, Kaiwen Hsiao, Maria T. Dulay, Ian Coates, William Pan, Eric S.G. Shaqfeh, Joseph M. DeSimone -->
+        <p><a href="https://stanford.edu/~boaza/Abramson_Shayo_Integration_Oct2021.pdf">International Integration and Social Identity</a> (with Moses Shayo) </p>
+        {% else %}
+
+        <h5>Working Papers</h5>
+        <p><a href="https://stanford.edu/~boaza/evictions_abramson.pdf">The Welfare Effects of Eviction and Homelessness Policies</a>(Job Market Paper) </p>
+        <p><a href="https://stanford.edu/~boaza/FK_Housing_July_2021.pdf">Self-Assessed Financial Literacy in Housing Markets</a> (with Andres Yany)</p>
+
+        <h5>Work in Progress</h5>
+        <p><a href="https://stanford.edu/~boaza/site2021.pdf">Search to Rent or Search to Own: Housing Market Churn in the Cross Section of Cities</a> (with Tim Landvoigt, Monika Piazzesi and Martin Schneider)</p>
+
+        <p>Gone but not Forgotten: The Effect of Death During War on Families (with Helen Kissel)</p>
+
+        {% endif %}
+    </div>
 </div>
