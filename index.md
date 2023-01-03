@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+I am an assistant professor in the finance division at Columbia Business School. I received my Ph.D. in Economics from Stanford University in 2022, and holds an MA and BA from the Hebrew University of Jerusalem. 
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+My research lies in the intersection of macroeconomics, housing, and finance. I am particularly interested in the housing insecurity problem in the US rental market, where millions of renters are evicted every year and where homelessness is pervasive. My recent work examines how instating stronger tenant protections against evictions impacts rents, homelessness, and evictions.
