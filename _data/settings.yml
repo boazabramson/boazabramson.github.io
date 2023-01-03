@@ -10,4 +10,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/boaz-abramson-27b28b133/'}
 
 contacts:
-- {name: 'Boaz Abramson', title: 'Assistant Professor', department: 'Finance', institution: 'Some University', institution_address: 'Columbia Business School, 665 West 130th Street, New York, NY 10027', phone: '(650)-2506-287', email: 'ba2695@gsb.columbia.edu', office: '723  Kravis', image: 'assets/img/contact.jpg'}
+- {name: 'Boaz Abramson', title: 'Assistant Professor', department: 'Finance', institution: 'Columbia Business School', institution_address: '665 West 130th Street, New York, NY 10027', phone: '(650) 2506-287', email: 'ba2695@gsb.columbia.edu', office: '723  Kravis', image: 'assets/img/contact.jpg'}
