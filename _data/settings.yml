@@ -1,8 +1,8 @@
 menu:
-- {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
+- {name: 'Research', url: '/publications'}
+- {name: 'Teaching', url: '/courses'}
+- {name: 'CV', url: '/cv'}
+- {name: 'Contact', url: '/contact'}
 
 social:
 - {icon: 'github', link: 'https://github.com/boazabramson'}
